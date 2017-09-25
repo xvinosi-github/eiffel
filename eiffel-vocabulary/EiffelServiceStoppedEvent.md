@@ -16,7 +16,7 @@
 --->
 
 # EiffelServiceStoppedEvent  (ServSto)
-The EiffelServiceDeployedEvent is to declare that a Service has been stopped.
+The EiffelServiceStoppedEvent is to declare that a Service has been stopped.
 
 ## Data Members
  

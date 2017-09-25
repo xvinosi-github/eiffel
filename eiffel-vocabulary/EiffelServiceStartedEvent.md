@@ -16,7 +16,7 @@
 --->
 
 # EiffelServiceStartedEvent (ServSta)
-The EiffelServiceDeployedEvent is to declare that a Service has been started and is running.
+The EiffelServiceStartedEvent is to declare that a Service has been started and is running.
 
 ## Data Members
  

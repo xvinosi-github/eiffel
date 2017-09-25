@@ -15,9 +15,8 @@
    limitations under the License.
 --->
 
-# EiffelServiceDeployedEvent  (ServDe)
-The EiffelServiceDeployedEvent is to declare when a configuration item/VM  and/or Service has been deployed by a machine/human.
-It implies that the service is not in a running state and is ready to be started.
+# EiffelServiceAllocatedEvent  (ServA)
+The EiffelServiceAllocatedEvent is to declare an instance has been allocated to a User.( e.g global scheduler or resource booking tool).
 
 ## Data Members
  
